@@ -5,6 +5,8 @@ layout: post
 thumbnail: /assets/images/swimming-beginner.png
 ---
 
+![수영 초급자](/assets/images/swimming-beginner.png)
+
 수영을 막 시작한 초급자라면 "얼마나 해야 하지?"가 가장 큰 고민입니다. 너무 적게 하면 실력이 늘지 않고, 너무 많이 하면 어깨·허리에 무리가 옵니다. 실제 코치 권장치와 데이터를 바탕으로 정리했습니다.
 
 ---

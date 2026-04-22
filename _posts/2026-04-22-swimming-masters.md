@@ -5,6 +5,8 @@ layout: post
 thumbnail: /assets/images/swimming-masters.png
 ---
 
+![수영 마스터즈](/assets/images/swimming-masters.png)
+
 마스터즈 수영은 나이에 관계없이 대회에 출전해 기록을 겨루는 성인 생활체육 수영입니다. 첫 대회 준비부터 메달을 노리는 상위권까지, 수준별 주간 운동량과 대회 준비 전략을 정리했습니다.
 
 ---

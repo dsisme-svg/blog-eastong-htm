@@ -5,6 +5,8 @@ layout: post
 thumbnail: /assets/images/swimming-intermediate.png
 ---
 
+![수영 중급자](/assets/images/swimming-intermediate.png)
+
 자유형 50m를 편하게 완영하고 기초 기술은 익혔지만, 더 체계적으로 실력을 올리고 싶다면 중급자 훈련 볼륨이 필요합니다. 주간 운동량과 세션 구성을 정리했습니다.
 
 ---

@@ -5,6 +5,8 @@ layout: post
 thumbnail: /assets/images/swimming-advanced.png
 ---
 
+![수영 고급자](/assets/images/swimming-advanced.png)
+
 고급자 단계에서는 단순히 "많이 수영하는 것"보다 **볼륨·강도·회복의 균형**이 핵심입니다. 엘리트 선수 데이터와 현실적인 아마추어 고급자 기준을 함께 정리했습니다.
 
 ---
