@@ -8,3 +8,6 @@ permalink: /:year/:month/:day/:title/
 
 markdown: kramdown
 highlighter: rouge
+
+timezone: Asia/Seoul
+future: true
